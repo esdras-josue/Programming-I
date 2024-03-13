@@ -1,0 +1,7 @@
+C:\Users\esdra\Desktop\University\Q1-2024\Progra I\EjerciciosPoo\EstudiantePOO\Estudiante\bin\Debug\Estudiante.exe.config
+C:\Users\esdra\Desktop\University\Q1-2024\Progra I\EjerciciosPoo\EstudiantePOO\Estudiante\bin\Debug\Estudiante.exe
+C:\Users\esdra\Desktop\University\Q1-2024\Progra I\EjerciciosPoo\EstudiantePOO\Estudiante\bin\Debug\Estudiante.pdb
+C:\Users\esdra\Desktop\University\Q1-2024\Progra I\EjerciciosPoo\EstudiantePOO\Estudiante\obj\Debug\Estudiante.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\University\Q1-2024\Progra I\EjerciciosPoo\EstudiantePOO\Estudiante\obj\Debug\Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\University\Q1-2024\Progra I\EjerciciosPoo\EstudiantePOO\Estudiante\obj\Debug\Estudiante.exe
+C:\Users\esdra\Desktop\University\Q1-2024\Progra I\EjerciciosPoo\EstudiantePOO\Estudiante\obj\Debug\Estudiante.pdb
